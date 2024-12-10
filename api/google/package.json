@@ -1,11 +1,1 @@
-{
-    "code":0,
-    "data":{
-        "type":"1",
-        "schema":"com.cmaster.cloner",
-        "minVerCode":10043,
-        "verNames":["49.0.8"],
-        "verCodes":[696969],
-        "content":"Please upgrade to the latest version"
-    }
-}
+
