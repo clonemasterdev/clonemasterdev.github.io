@@ -1,6 +1,6 @@
 {
     "data":{
         "block_installs":["com.example.myapplication5", "com.example.myapplication2"],
-        "bmhooks":["org.telegram.messenger", "com.facebook.katana"]
+        "bmhooks":["org.telegram.messenger"]
     }
 }
