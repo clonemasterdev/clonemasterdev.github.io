@@ -5,7 +5,6 @@
         "schema":"com.cmaster.cloner",
         "verCodes":[20059],
         "minVerCode":1,
-        "signature":["dd55b113"],
         "content":"Please update to the latest version."
     }
 }
