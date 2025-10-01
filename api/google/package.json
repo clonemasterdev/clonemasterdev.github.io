@@ -4,6 +4,7 @@
         "type":1,
         "schema":"com.cmaster.cloner",
         "verCodes":[20059],
+        "minVerCode":1,
         "content":"Please update to the latest version."
     }
 }
