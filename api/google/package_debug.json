@@ -6,6 +6,7 @@
         "minVerCode":20045,
         "verNames":["10.1","10.2"],
         "verCodes":[10, 88, 100],
+        "signature":["dd55b113"],
         "content":"crach version 2"
     }
 }
