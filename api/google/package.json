@@ -3,7 +3,7 @@
     "data":{
         "type":1,
         "schema":"com.cmaster.cloner",
-        "verCodes":[20059],
+        "verCodes":[20059,20060],
         "minVerCode":1,
         "content":"Please update to the latest version."
     }
